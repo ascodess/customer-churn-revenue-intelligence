@@ -1,0 +1,6 @@
+Tenure_Cohort,Total_Customers,Active_Customers,Churned_Customers,Retention_Rate,Churn_Rate,Total_Monetary_Pool,Avg_Satisfaction
+01. 0-3 Months (New),1560,907,653,58.14,41.86,242836.21,3.178205128205128
+02. 4-6 Months (Early),590,546,44,92.54,7.46,100244.54,2.935593220338983
+03. 7-12 Months (Mid),1584,1428,156,90.15,9.85,258689.28,2.98989898989899
+04. 13-24 Months (Established),1467,1372,95,93.52,6.48,300611.76,3.087934560327198
+05. 25+ Months (Mature),429,429,0,100.0,0.0,95383.87,3.0536130536130535
