@@ -192,7 +192,7 @@ pip install pandas numpy matplotlib seaborn squarify openpyxl jupyter
 ### Steps
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/customer-churn-revenue-intelligence.git
+git clone https://github.com/ascodess/customer-churn-revenue-intelligence.git
 cd customer-churn-revenue-intelligence
 
 # 2. Launch Jupyter
